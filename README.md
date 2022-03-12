@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-**romaricsylvain/romaricsylvain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am Romaric Sylvain
 
 - 🔭 I’m currently working on Laravel / Angular / Spring Boot / Ionic
 - 🌱 I’m currently learning Business Intelligence
