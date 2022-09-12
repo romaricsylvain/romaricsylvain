@@ -2,6 +2,6 @@
 
 I am Romaric Sylvain
 
-- 🔭 I’m currently working on Laravel / Angular / Spring Boot / Ionic
+- 🔭 I’m currently working on Laravel / Angular / Spring Boot / Ionic / Flutter
 
 
